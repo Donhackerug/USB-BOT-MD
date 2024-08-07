@@ -13,7 +13,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "@𝑫𝑶𝑵 𝑯𝑨𝑪𝑲𝑬𝑹",
+  "author": "Ayush",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
