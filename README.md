@@ -1,4 +1,5 @@
-<a href="https://ibb.co/pQNpmwN"><img src="https://telegra.ph/file/553a3b69c8b8181978a5c.jpg" alt="USB-Md" border="0"></a>
+
+<a href="https://ibb.co/pQNpmwN"><img src="https://github.com/user-attachments/assets/7c51320b-3fae-47d4-becf-c187455379dc" alt="USB-Md" border="0"></a>
 <h1 align="center">⭐USB-Md⭐<br></h1>
 
 <p align="center"> 
