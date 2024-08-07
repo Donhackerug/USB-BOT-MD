@@ -96,8 +96,8 @@ apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg instal
 
 - Update
 ```js
-rm -rf USB-MD &&
-git clone https://github.com/MariaWaBot/Maria-MD && cd Maria-MD && npm install && npm start
+rm -rf USB-BOT-MD &&
+git clone https://github.com/Donhackerug/USB-BOT-MD && cd USB-BOT-MD && npm install && npm start
 
 ```
 
