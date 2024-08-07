@@ -48,7 +48,7 @@
   
 1. Fork The Repo
     <br>
-    <a href="https://github.com/Donhackerug/USB-BOT-MD/fork"><img title="Maria-MD" src="https://img.shields.io/badge/FORK MARIA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+    <a href="https://github.com/Donhackerug/USB-BOT-MD/fork"><img title="Maria-MD" src="https://img.shields.io/badge/FORK USB-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Pair with WhatsApp 
    <p align="left">
@@ -58,8 +58,8 @@
    </p>
 
 
-## ✧✧Maria Deployment  
-<a href="https://maria-pair.koyeb.app/deploy.html"><img title="Deploy Maria-MD  " src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+## ✧USB Deployment  
+<a href="https://maria-pair.koyeb.app/deploy.html"><img title="Deploy USB-MD  " src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 
 
