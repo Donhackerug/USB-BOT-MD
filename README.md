@@ -53,14 +53,14 @@
 
 2. Pair with WhatsApp 
    <p align="left">
-       <a href="https://maria-pair.koyeb.app/pair.html">
+       <a href="https://usb-bot-md-v3.onrender.com.html">
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
        </a>
    </p>
 
 
 ## ✧USB Deployment  
-<a href="https://maria-pair.koyeb.app/deploy.html"><img title="Deploy USB-MD  " src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a 
 
 
 
