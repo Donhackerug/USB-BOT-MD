@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 
 
 global.thumb = fs.readFileSync('./lib/bugs/venom.jpg')
-const BOTNAME = 'VAJIRA-MD|-WA-BOT™';
+const BOTNAME = 'USB-MD|-WA-BOT™';
 const FOOTERNAME = '> USB - BOT -  ＭＤ - Ｖ4';
 global.owner = process.env.OWNER_NUMBER  || '256704376077' ;  // ADD YOUR NUMBER WITHOUT +
     
@@ -15,7 +15,7 @@ SESSION_ID: process.env.SESSION_ID || ' ' ,
 travaSend: process.env.TRAVA_SEND || '25' ,   
 MODERATORS : process.env.MODERATORS === undefined ? "256704376077,256742366969" : process.env.MODERATORS ,    
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE,/*add this in megabytes*/    
-OWNER_NAME: process.env.OWNER_NAME || 'VAJIRA' ,
+OWNER_NAME: process.env.OWNER_NAME || 'DON TECH' ,
 COMMAND_TYPE: process.env.COMMAND_TYPE || 'button' ,
 LOGO: process.env.LOGO || `https://` ,
 POSTGRESQL_URL: process.env.POSTGRESQL_URL === undefined ? 'postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech' : process.env.POSTGRESQL_URL,
